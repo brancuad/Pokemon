@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<script type="text/javascript" src="../Scripts/d3/d3.min.js"></script>
+		<script type="text/javascript" src="../Scripts/hw1/bar.js"></script>
+		<script type="text/javascript" src="../Scripts/jquery/jquery-3.1.0.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="../Styles/styles.css">
+
+		<style>
+			.filter {
+				margin: 2px;
+				display: none;
+			}
+
+			.bar {
+				stroke-width: 3px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>HW2 - Pok&eacute;mon Bar Graphs</h1>
+		<h3>Brandon Cuadrado, 109237297</h3>
+		<div id="content">
+			<div onclick="nextAttr();" style="text-align: center;"><div style="display:inline; font-size: 24px; font-weight:bold;">Bin: <span id="binTitle">Type</span> | Attr: <span id="attrTitle">Attack</span></div></div>
+			
+		</div>
+		<form id="binForm" action="" class="filter">
+			Bin:
+
+			<input type="radio" name="bin" value="Type" /> Type
+			<input type="radio" name="bin" value="Generation" /> Generation
+		</form>
+		<form id="attrForm" class="filter">
+			Attribute:
+			<input type="radio" name="attr" value="Attack"/> Attack
+			<input type="radio" name="attr"
+			value="Defense"/> Defense
+			<input type="radio" name="attr" value="SpAtk"/> Sp. Atk
+			<input type="radio" name="attr"
+			value="SpDef"/> Sp. Def
+			<input type="radio" name="attr" value="Speed"/> Speed
+			<input type="radio" name="attr"
+			value="HP"/> HP
+			<input type="radio" name="attr"
+			value="Total"/> Total
+			<input type="radio" name="attr"
+			value="Male"/> Male Ratio
+			<input type="radio" name="attr"
+			value="Female"/> Female Ratio
+		</form>
+	</body>
+</html>

@@ -1,0 +1,801 @@
+Name,Type1,Type2,MDSx,MDSy
+Bulbasaur,Grass,Poison,-120.7969961,-35.90741918
+Ivysaur,Grass,Poison,-29.97796704,-12.65252864
+Venusaur,Grass,Poison,94.92738368,21.74918982
+Mega Venusaur,Grass,Poison,193.5436631,73.46092255
+Charmander,Fire,,-126.7073681,-53.70744823
+Charmeleon,Fire,,-26.01752363,-29.14262877
+Charizard,Fire,Flying,109.8538631,5.313566809
+Mega Charizard X,Fire,Dragon,210.8378354,51.14129191
+Mega Charizard Y,Fire,Flying,219.6794385,22.05589947
+Squirtle,Water,,-129.7545396,-20.50090138
+Wartortle,Water,,-35.04683073,4.559283871
+Blastoise,Water,,94.63955508,41.01133332
+Mega Blastoise,Water,,201.1145248,68.86576012
+Caterpie,Bug,,-250.9614822,-70.75996175
+Metapod,Bug,,-245.5801739,-48.5022252
+Butterfree,Bug,Flying,-35.90502368,-34.06020884
+Weedle,Bug,Poison,-249.2806529,-76.53282339
+Kakuna,Bug,Poison,-243.8531501,-54.30397317
+Beedrill,Bug,Poison,-39.04698617,-23.69013423
+Mega Beedrill,Bug,Poison,70.50403538,-19.20718716
+Pidgey,Normal,Flying,-190.5976853,-60.14413768
+Pidgeotto,Normal,Flying,-88.49569055,-33.35724515
+Pidgeot,Normal,Flying,48.21636041,-2.798230566
+Mega Pidgeot,Normal,Flying,162.9782818,-2.677679921
+Rattata,Normal,,-186.6146352,-67.58847512
+Raticate,Normal,,-19.77732567,-22.34573936
+Spearow,Normal,Flying,-176.097689,-69.47858619
+Fearow,Normal,Flying,11.47116249,-17.26955506
+Ekans,Poison,,-152.4525772,-44.88681696
+Arbok,Poison,,4.094373036,-3.802359895
+Pikachu,Electric,,-112.8349673,-63.17819219
+Raichu,Electric,,62.51419376,-24.68587558
+Sandshrew,Ground,,-150.7731811,-1.72941429
+Sandslash,Ground,,5.441806544,39.1270609
+Nidoran♀,Poison,,-169.3827503,-38.24250856
+Nidorina,Poison,,-75.38098601,-13.83460636
+Nidoqueen,Poison,Ground,69.97203408,27.81519944
+Nidoran♂,Poison,,-167.989501,-50.75874801
+Nidorino,Poison,,-72.17751154,-24.51161124
+Nidoking,Poison,Ground,75.10604654,12.05409768
+Clefairy,Fairy,,-118.2482249,-27.52378778
+Clefable,Fairy,,49.61399689,13.45899377
+Vulpix,Fire,,-138.7340018,-53.02109171
+Ninetales,Fire,,75.71876522,5.824587865
+Jigglypuff,Normal,Fairy,-172.8486367,-51.09395859
+Wigglytuff,Normal,Fairy,1.402370515,-11.45541495
+Zubat,Poison,Flying,-196.938783,-61.90345706
+Golbat,Poison,Flying,22.27847284,-4.476376122
+Oddish,Grass,Poison,-120.1378649,-26.76755301
+Gloom,Grass,Poison,-43.03598827,-2.461791841
+Vileplume,Grass,Poison,56.47623742,23.50125361
+Paras,Bug,Grass,-160.1694337,-23.12368012
+Parasect,Bug,Grass,-38.66895759,24.14638595
+Venonat,Bug,Poison,-137.8213165,-30.81523473
+Venomoth,Bug,Poison,22.2236763,-22.7436844
+Diglett,Ground,,-168.1671244,-86.74423168
+Dugtrio,Ground,,-22.73874842,-44.71752739
+Meowth,Normal,,-144.9196817,-72.84734365
+Persian,Normal,,12.28270811,-31.94799896
+Psyduck,Water,,-116.9892777,-43.48739151
+Golduck,Water,,70.63209277,6.95838715
+Mankey,Fighting,,-131.6314406,-52.40995678
+Primeape,Fighting,,24.95273492,-11.17809538
+Growlithe,Fire,,-84.00062437,-40.08540973
+Arcanine,Fire,,129.4338588,19.96281938
+Poliwag,Water,,-135.0143507,-66.41054743
+Poliwhirl,Water,,-50.54679206,-26.88393239
+Poliwrath,Water,Fighting,72.17190525,40.41556451
+Abra,Psychic,,-111.5433604,-105.8318759
+Kadabra,Psychic,,-17.23048296,-81.30413448
+Alakazam,Psychic,,86.85993046,-49.96790391
+Mega Alakazam,Psychic,,187.6320896,-40.03445726
+Machop,Fighting,,-138.830204,-24.66599668
+Machoke,Fighting,,-36.33149086,10.70792399
+Machamp,Fighting,,67.84836122,41.10271666
+Bellsprout,Grass,Poison,-135.7132842,-52.14287518
+Weepinbell,Grass,Poison,-41.732645,-27.39490775
+Victreebel,Grass,Poison,62.11076341,2.174877716
+Tentacool,Water,Poison,-101.1167474,-43.8759875
+Tentacruel,Water,Poison,86.61592958,5.764330427
+Geodude,Rock,Ground,-154.0535889,15.58975784
+Graveler,Rock,Ground,-60.21847485,39.79750574
+Golem,Rock,Ground,47.17487888,75.6647061
+Ponyta,Fire,,-20.42184107,-28.58019206
+Rapidash,Fire,,73.39392258,-2.886998373
+Slowpoke,Water,Psychic,-134.0676812,-2.065410479
+Slowbro,Water,Psychic,47.83573789,52.80040802
+Mega Slowbro,Water,Psychic,143.8359818,115.4094291
+Magnemite,Electric,Steel,-112.2356729,-34.28632682
+Magneton,Electric,Steel,34.03779366,2.952668295
+Farfetch'd,Normal,Flying,-85.56356197,-27.40358332
+Doduo,Normal,Flying,-126.829071,-48.77712106
+Dodrio,Normal,Flying,29.65559075,-7.388486336
+Seel,Water,,-118.1344015,-21.95012476
+Dewgong,Water,Ice,37.96387438,19.6841139
+Grimer,Poison,,-119.5787613,-12.47451242
+Muk,Poison,,61.38823642,40.12645234
+Shellder,Water,,-144.0061646,-1.680840511
+Cloyster,Water,Ice,78.14347532,86.10643423
+Gastly,Ghost,Poison,-142.6872642,-21.84250711
+Haunter,Ghost,Poison,-16.10364749,-63.31569435
+Gengar,Ghost,Poison,82.62897161,-34.38606522
+Mega Gengar,Ghost,Poison,191.0945458,-14.04765425
+Onix,Rock,Ground,-43.96130011,-64.09812517
+Drowzee,Psychic,,-114.4613016,-21.96742451
+Hypno,Psychic,,47.49260712,19.37106627
+Krabby,Water,,-122.2214868,1.634417422
+Kingler,Water,,33.79445748,42.98011023
+Voltorb,Electric,,-103.0953722,-62.21303308
+Electrode,Electric,,56.42647016,-32.69138388
+Exeggcute,Grass,Psychic,-119.9632293,-12.78629674
+Exeggutor,Grass,Psychic,90.66409729,22.18964786
+Cubone,Ground,,-130.7483167,7.061144329
+Marowak,Ground,,-22.97916244,43.5392545
+Hitmonlee,Fighting,,21.06537433,4.688103763
+Hitmonchan,Fighting,,14.95191911,26.33790938
+Lickitung,Normal,,-60.07731067,12.38810445
+Koffing,Poison,,-106.4202594,5.075129875
+Weezing,Poison,,49.53440208,46.73626066
+Rhyhorn,Ground,Rock,-107.1411331,23.11632309
+Rhydon,Ground,Rock,36.56731312,70.97512642
+Chansey,Normal,,10.49453805,-11.04180696
+Tangela,Grass,,-3.904520841,15.18602175
+Kangaskhan,Normal,,52.34426798,23.5285661
+Mega Kangaskhan,Normal,,155.8024362,58.65113464
+Horsea,Water,,-144.0723944,-45.8703604
+Seadra,Water,,7.468974486,-6.897329282
+Goldeen,Water,,-121.4951661,-28.56354047
+Seaking,Water,,15.07328494,4.788679755
+Staryu,Water,,-92.77403359,-52.15370917
+Starmie,Water,Psychic,95.20230102,-0.698425529
+Mr. Mime,Psychic,Fairy,32.10657869,-15.30420593
+Scyther,Bug,Flying,68.16056113,13.17741291
+Jynx,Ice,Psychic,35.11213678,-48.26212078
+Electabuzz,Electric,,66.91615967,-20.38761218
+Magmar,Fire,,71.47211648,-12.97585202
+Pinsir,Bug,,62.98753536,36.19122118
+Mega Pinsir,Bug,Flying,166.2136536,69.51839786
+Tauros,Normal,,53.79503426,20.18550878
+Magikarp,Water,,-245.0692374,-76.19241777
+Gyarados,Water,Flying,105.9239265,40.46640254
+Mega Gyarados,Water,Dark,204.3352325,92.88126341
+Lapras,Water,Ice,99.58539938,39.49573511
+Ditto,Normal,,-153.3434365,-42.83050731
+Eevee,Normal,,-115.3994209,-31.00190135
+Vaporeon,Water,,96.59077134,11.19286707
+Jolteon,Electric,,108.2268651,-26.11379125
+Flareon,Fire,,97.37361204,21.71126794
+Porygon,Normal,,-43.3057423,-2.687789951
+Omanyte,Rock,Water,-88.28331615,1.10113631
+Omastar,Rock,Water,56.6006531,41.35377183
+Kabuto,Rock,Water,-87.58805075,-2.671993453
+Kabutops,Rock,Water,57.69875695,36.28633207
+Aerodactyl,Rock,Flying,90.10041964,-8.029156894
+Mega Aerodactyl,Rock,Flying,193.9588601,24.61819948
+Snorlax,Normal,,99.62801801,59.70382292
+Articuno,Ice,Flying,147.3506717,52.09564096
+Zapdos,Electric,Flying,157.9835922,18.74784127
+Moltres,Fire,Flying,155.990283,27.38839905
+Dratini,Dragon,,-139.3364364,-42.11933091
+Dragonair,Dragon,,-14.14761937,-9.124087687
+Dragonite,Dragon,Flying,170.6848941,55.55028784
+Mewtwo,Psychic,,268.3928436,25.24253254
+Mega Mewtwo X,Psychic,Fighting,370.6077245,67.84299681
+Mega Mewtwo Y,Psychic,,381.8209528,29.73065928
+Mew,Psychic,,171.5674702,45.56336611
+Chikorita,Grass,,-125.5599544,-19.87581657
+Bayleef,Grass,,-35.1253195,4.129643427
+Meganium,Grass,,89.58550798,38.34221279
+Cyndaquil,Fire,,-126.7073681,-53.70744823
+Quilava,Fire,,-26.01752363,-29.14262877
+Typhlosion,Fire,,109.8538631,5.313566809
+Totodile,Water,,-129.7223614,-20.11681639
+Croconaw,Water,,-35.14817719,5.414165838
+Feraligatr,Water,,94.80687114,41.44539559
+Sentret,Normal,,-231.2542022,-52.75598348
+Furret,Normal,,-20.55265501,-15.48506371
+Hoothoot,Normal,Flying,-179.8749071,-57.80632862
+Noctowl,Normal,Flying,9.075798178,-12.14344924
+Ledyba,Bug,Flying,-175.9789187,-58.63554392
+Ledian,Bug,Flying,-45.10344247,-27.2061593
+Spinarak,Bug,Poison,-193.8815993,-46.09430594
+Ariados,Bug,Poison,-50.92579464,4.685566488
+Crobat,Poison,Flying,109.0272889,4.116200078
+Chinchou,Water,Electric,-106.0919272,-50.04519216
+Lanturn,Water,Electric,25.91885626,-2.141576952
+Pichu,Electric,,-232.965214,-92.55162454
+Cleffa,Fairy,,-227.6938278,-56.1528206
+Igglybuff,Normal,Fairy,-234.5826653,-69.10686568
+Togepi,Fairy,,-205.9277241,-24.89586196
+Togetic,Fairy,Flying,-37.27423512,14.4655638
+Natu,Psychic,Flying,-113.5335092,-56.8801127
+Xatu,Psychic,Flying,43.02581532,-15.22535556
+Mareep,Electric,,-160.0036346,-49.74062037
+Flaaffy,Electric,,-71.72554381,-23.92667823
+Ampharos,Electric,,77.83566216,24.9559459
+Mega Ampharos,Electric,Dragon,182.7302936,59.75364326
+Bellossom,Grass,,51.64490296,38.59373699
+Marill,Water,Fairy,-199.1651685,-38.55941117
+Azumarill,Water,Fairy,-22.89796328,15.08826011
+Sudowoodo,Rock,,-14.1573736,-58.61375127
+Politoed,Water,,67.33068698,17.82024284
+Hoppip,Grass,Flying,-193.0180452,-54.83966247
+Skiploom,Grass,Flying,-97.10467816,-41.25365191
+Jumpluff,Grass,Flying,27.41645894,-9.214859727
+Aipom,Normal,,-76.47087571,-33.07629658
+Sunkern,Grass,,-266.0630263,-71.83788612
+Sunflora,Grass,,-8.663742041,-2.607649919
+Yanma,Bug,Flying,-37.60082615,-51.6127038
+Wooper,Water,Ground,-240.2628489,-43.33021137
+Quagsire,Water,Ground,-13.26518037,27.69043483
+Espeon,Psychic,,108.2777391,-22.00571994
+Umbreon,Dark,,80.89034378,64.94521847
+Murkrow,Dark,Flying,-19.93535115,-50.02566691
+Slowking,Water,Psychic,51.92111052,38.12793727
+Misdreavus,Ghost,,5.25414557,-21.31967048
+Unown,Psychic,,-99.79012898,-36.57934289
+Wobbuffet,Psychic,,-43.14556272,13.42604308
+Girafarig,Normal,Psychic,26.51144171,-15.70340364
+Pineco,Bug,,-163.4704339,7.253819814
+Forretress,Bug,Steel,14.24580762,71.67793493
+Dunsparce,Normal,,-25.39402974,7.331789834
+Gligar,Ground,Flying,-13.65046075,22.17207966
+Steelix,Steel,Ground,108.6740423,-83.09401942
+Mega Steelix,Steel,Ground,144.8577488,188.7915009
+Snubbull,Fairy,,-143.8718868,-24.62221963
+Granbull,Fairy,,10.68417602,24.77743585
+Qwilfish,Water,Poison,-5.073510087,-4.287856123
+Scizor,Bug,Steel,60.02130493,49.2765991
+Mega Scizor,Bug,Steel,158.1133433,100.3264218
+Shuckle,Bug,Rock,22.23573516,201.173959
+Heracross,Bug,Fighting,63.8016431,29.81984684
+Mega Heracross,Bug,Fighting,159.1229067,96.72214244
+Sneasel,Dark,Ice,-0.966767343,-23.76147148
+Teddiursa,Normal,,-110.5259292,-23.57214282
+Ursaring,Normal,,65.2900169,31.33926025
+Slugma,Fire,,-191.4976525,-52.70242782
+Magcargo,Fire,Rock,-38.16243448,40.87192751
+Swinub,Ice,Ground,-193.0618916,-55.49412851
+Piloswine,Ice,Ground,9.732173364,24.05363164
+Corsola,Water,Rock,-64.77414438,13.55701414
+Remoraid,Water,,-133.1883429,-64.66508229
+Octillery,Water,,47.54701291,18.20343657
+Delibird,Ice,Flying,-103.322135,-54.58764612
+Mantine,Water,Flying,29.41968649,11.07497154
+Skarmory,Steel,Flying,15.1075841,62.69208965
+Houndour,Dark,Fire,-100.0780497,-63.29105639
+Houndoom,Dark,Fire,79.32708814,-21.7300438
+Mega Houndoom,Dark,Fire,182.5858412,13.501122
+Kingdra,Water,Dragon,108.8523997,32.80580094
+Phanpy,Ground,,-114.6164718,-15.74362087
+Donphan,Ground,,55.21320957,65.41474719
+Porygon2,Normal,,81.46580973,31.39567439
+Stantler,Normal,,36.84749157,-11.78884203
+Smeargle,Normal,,-191.9217603,-68.66596803
+Tyrogue,Fighting,,-234.6534474,-64.1673465
+Hitmontop,Fighting,,11.24217908,39.31616418
+Smoochum,Ice,Psychic,-123.6823189,-82.09716184
+Elekid,Electric,,-68.49451739,-60.78594818
+Magby,Fire,,-63.95871121,-53.35031355
+Miltank,Normal,,49.7378871,31.14873478
+Blissey,Normal,,107.9362951,7.295393461
+Raikou,Electric,,160.0873382,8.753994188
+Entei,Fire,,152.9580111,31.28535036
+Suicune,Water,,143.816541,61.37730965
+Larvitar,Rock,Ground,-142.159959,-32.17250279
+Pupitar,Rock,Ground,-28.68473811,3.649818515
+Tyranitar,Rock,Dark,164.4488664,77.57094209
+Mega Tyranitar,Rock,Dark,261.4023558,132.9369652
+Lugia,Psychic,Flying,246.0504953,94.2793506
+Ho-oh,Fire,Flying,254.2400938,75.13792834
+Celebi,Psychic,Grass,171.5674702,45.56336611
+Treecko,Grass,,-123.3491474,-63.12240138
+Grovyle,Grass,,-20.81301758,-48.31025621
+Sceptile,Grass,,110.777992,-13.78341744
+Mega Sceptile,Grass,Dragon,222.0916615,-6.016829413
+Torchic,Fire,,-126.2717248,-47.17008896
+Combusken,Fire,Fighting,-28.26994144,-15.06746932
+Blaziken,Fire,Fighting,105.7155636,9.801792812
+Mega Blaziken,Fire,Fighting,213.1739537,31.3515692
+Mudkip,Water,,-131.076163,-30.15969783
+Marshtomp,Water,Ground,-34.63821225,4.630392399
+Swampert,Water,Ground,99.54788933,46.06186457
+Mega Swampert,Water,Ground,201.5817182,85.79389135
+Poochyena,Dark,,-224.4166806,-58.92002777
+Mightyena,Dark,,-16.19952788,-3.285556253
+Zigzagoon,Normal,,-202.7466046,-63.18198302
+Linoone,Normal,,-12.99080158,-23.06061337
+Wurmple,Bug,,-253.9836915,-54.4958366
+Silcoon,Bug,,-247.1537137,-39.07400714
+Beautifly,Bug,Flying,-33.59542754,-37.90330317
+Cascoon,Bug,,-247.156434,-39.05171346
+Dustox,Bug,Poison,-55.85215841,-5.25730067
+Lotad,Water,Grass,-224.203488,-61.50431041
+Lombre,Water,Grass,-98.92277684,-28.84105029
+Ludicolo,Water,Grass,47.77084493,8.129659416
+Seedot,Grass,,-227.9743432,-47.41979341
+Nuzleaf,Grass,Dark,-95.03671185,-43.77183814
+Shiftry,Grass,Dark,52.44385364,-7.685692064
+Taillow,Normal,Flying,-166.2593159,-75.93704638
+Swellow,Normal,Flying,2.144701489,-36.32590398
+Wingull,Water,Flying,-163.364229,-87.22243407
+Pelipper,Water,Flying,-8.92514198,10.95435796
+Ralts,Psychic,Fairy,-243.4981371,-81.16317478
+Kirlia,Psychic,Fairy,-159.4524172,-60.92313893
+Gardevoir,Psychic,Fairy,94.01802041,0.372972594
+Mega Gardevoir,Psychic,Fairy,205.8201429,8.243763898
+Surskit,Bug,Water,-168.5775101,-69.16429446
+Masquerain,Bug,Flying,-20.93289031,-10.38246192
+Shroomish,Grass,,-151.717233,-21.65878649
+Breloom,Grass,Fighting,24.53293945,17.01781878
+Slakoth,Normal,,-167.297628,-23.60071228
+Vigoroth,Normal,,4.230609672,-1.71002508
+Slaking,Normal,,243.7006336,67.83631174
+Nincada,Bug,Ground,-185.4346096,-14.28065582
+Ninjask,Bug,Flying,36.26362171,-58.98182643
+Shedinja,Bug,Ghost,-207.0568169,-49.11437534
+Whismur,Normal,,-200.7123067,-65.27580251
+Loudred,Normal,,-75.37383629,-32.53213815
+Exploud,Normal,,59.73915446,5.257439779
+Makuhita,Fighting,,-209.7327905,-46.94474408
+Hariyama,Fighting,,34.02849005,27.79192717
+Azurill,Normal,Fairy,-260.9757761,-52.92259711
+Nosepass,Rock,,-81.56437776,54.65277023
+Skitty,Normal,,-183.1193652,-50.90048922
+Delcatty,Normal,,-57.80488464,-18.2773281
+Sableye,Dark,Ghost,-59.96239966,-2.966322065
+Mega Sableye,Dark,Ghost,32.07058895,75.91000951
+Mawile,Steel,Fairy,-62.45524334,6.141240853
+Mega Mawile,Steel,Fairy,32.83340783,68.26780835
+Aron,Steel,Rock,-121.1283541,15.64526936
+Lairon,Steel,Rock,-22.42076024,63.46395064
+Aggron,Steel,Rock,124.3936036,-43.38229801
+Mega Aggron,Steel,,169.6650261,180.1277818
+Meditite,Fighting,Psychic,-162.2220924,-44.14316159
+Medicham,Fighting,Psychic,-26.92114759,-8.39593968
+Mega Medicham,Fighting,Psychic,80.44881144,13.12293723
+Electrike,Electric,,-140.1598902,-62.9538699
+Manectric,Electric,,52.82353179,-31.21707273
+Mega Manectric,Electric,,161.3133624,-12.5010547
+Plusle,Electric,,-20.93774246,-50.90770995
+Minun,Electric,,-24.65704223,-39.54297223
+Volbeat,Bug,,-35.02465469,-20.92145475
+Illumise,Bug,,-31.97085747,-32.16199172
+Roselia,Grass,Poison,-28.44655696,-36.02317665
+Gulpin,Poison,,-142.1648372,-29.00905189
+Swalot,Poison,,27.84875003,25.09865325
+Carvanha,Water,Dark,-124.5945485,-74.03935415
+Sharpedo,Water,Dark,39.71939686,-39.52915846
+Mega Sharpedo,Water,Dark,141.2782662,5.288254966
+Wailmer,Water,,-32.51162975,-33.08966443
+Wailord,Water,,70.75823583,-1.245701234
+Numel,Fire,Ground,-133.6645008,-41.65610123
+Camerupt,Fire,Ground,27.19550154,11.51395207
+Mega Camerupt,Fire,Ground,127.4036388,62.77705951
+Torkoal,Fire,,20.04919518,76.30466027
+Spoink,Psychic,,-105.1224824,-50.70750109
+Grumpig,Psychic,,38.73416711,-3.741933955
+Spinda,Normal,,-78.14086069,-23.17176179
+Trapinch,Ground,,-154.5869636,-18.98752965
+Vibrava,Ground,Dragon,-96.45962083,-38.19662538
+Flygon,Ground,Dragon,91.1690788,12.757255
+Cacnea,Grass,,-98.88272561,-39.75555397
+Cacturne,Grass,Dark,48.51991872,-3.696984451
+Swablu,Normal,Flying,-134.1125701,-24.0458303
+Altaria,Dragon,Flying,53.17292384,26.07404311
+Mega Altaria,Dragon,Fairy,159.0428882,57.21852712
+Zangoose,Normal,,27.6843614,-8.180940922
+Seviper,Poison,,29.75591515,-9.797716064
+Lunatone,Rock,Psychic,8.583767365,-12.0009972
+Solrock,Rock,Psychic,1.160655276,14.82089897
+Barboach,Water,Ground,-151.3080554,-52.74202199
+Whiscash,Water,Ground,31.8116067,13.89417645
+Corphish,Water,,-135.277106,-20.01672468
+Crawdaunt,Water,Dark,34.05387306,18.64681713
+Baltoy,Ground,Psychic,-142.7891553,-33.69635483
+Claydol,Ground,Psychic,60.27514596,43.28482201
+Lileep,Rock,Grass,-92.03598093,9.309359842
+Cradily,Rock,Grass,53.72308923,49.88367863
+Anorith,Rock,Bug,-81.01343912,-31.45241367
+Armaldo,Rock,Bug,54.12713039,53.31605018
+Feebas,Water,,-241.0750571,-91.35948656
+Milotic,Water,,109.4127455,25.84731634
+Castform,Normal,,-15.57471613,-6.700289473
+Kecleon,Normal,,-1.080239568,27.95815415
+Shuppet,Ghost,,-141.2010454,-53.33284881
+Banette,Ghost,,23.93112098,0.018970582
+Mega Banette,Ghost,,128.3994439,33.65757095
+Duskull,Ghost,,-159.1033699,10.97070121
+Dusclops,Ghost,,2.022428568,79.58837609
+Tropius,Grass,Flying,19.77756448,25.9010011
+Chimecho,Psychic,,-8.170355394,-11.46056682
+Absol,Dark,,35.64563177,-2.365873056
+Mega Absol,Dark,,151.2063335,-7.585484871
+Wynaut,Psychic,,-190.8846792,-28.24423576
+Snorunt,Ice,,-140.7292746,-39.7325597
+Glalie,Ice,,46.84304167,10.19823873
+Mega Glalie,Ice,,159.4683813,17.64674406
+Spheal,Ice,Water,-154.3812322,-30.72676535
+Sealeo,Ice,Water,-29.22358184,2.191179133
+Walrein,Ice,Water,95.50280917,36.50096725
+Clamperl,Water,,-98.19308729,-2.136024543
+Huntail,Water,,47.61181358,38.3553432
+Gorebyss,Water,,49.9881025,29.76689921
+Relicanth,Water,Rock,35.44641645,69.24039888
+Luvdisc,Water,,-106.7805556,-49.92520378
+Bagon,Dragon,,-142.3196778,-31.40745517
+Shelgon,Dragon,,-23.18610742,25.61677608
+Salamence,Dragon,Flying,178.3467457,28.41565763
+Mega Salamence,Dragon,Flying,276.2083065,77.23755733
+Beldum,Steel,Psychic,-150.2126815,-1.795918742
+Metang,Steel,Psychic,-25.1603971,30.59420573
+Metagross,Steel,Psychic,163.1776825,83.45477092
+Mega Metagross,Steel,Psychic,268.8125594,103.9899299
+Regirock,Rock,,120.5037707,149.7044811
+Regice,Ice,,140.3992727,78.4312655
+Registeel,Steel,,130.4599164,113.8529313
+Latias,Dragon,Psychic,175.4614018,32.81758726
+Mega Latias,Dragon,Psychic,276.9889326,74.90043659
+Latios,Dragon,Psychic,181.3032241,16.71402945
+Mega Latios,Dragon,Psychic,285.272589,52.2197605
+Kyogre,Water,,249.9583985,53.27553864
+Primal Kyogre,Water,,356.7787845,81.64428031
+Groudon,Ground,,236.3917712,99.45786086
+Primal Groudon,Ground,Fire,343.6310219,125.7368095
+Rayquaza,Dragon,Flying,263.6277351,49.21165711
+Mega Rayquaza,Dragon,Flying,371.9851924,67.20508578
+Jirachi,Steel,Psychic,171.5687039,45.56290558
+Deoxys Normal Forme,Psychic,,200.6004117,-38.20043203
+Deoxys Attack Forme,Psychic,,211.9160295,-73.66357249
+Deoxys Defense Forme,Psychic,,154.2701677,106.2846455
+Deoxys Speed Forme,Psychic,,186.228525,-7.012595896
+Turtwig,Grass,,-127.3174309,-11.11159105
+Grotle,Grass,,-39.55606937,23.44687585
+Torterra,Grass,Ground,85.10578088,57.45561977
+Chimchar,Fire,,-127.4688254,-50.49177609
+Monferno,Fire,Fighting,-24.60613313,-33.80303037
+Infernape,Fire,Fighting,112.569194,-2.463188739
+Piplup,Water,,-126.644417,-31.36263527
+Prinplup,Water,,-31.82418371,-4.635176789
+Empoleon,Water,Steel,98.0538479,33.82569639
+Starly,Normal,Flying,-195.0119872,-68.81087673
+Staravia,Normal,Flying,-96.33219523,-41.2233433
+Staraptor,Normal,Flying,53.43417639,4.826345868
+Bidoof,Normal,,-195.3799202,-45.43723837
+Bibarel,Normal,Water,-25.84248765,-11.31049291
+Kricketot,Bug,,-255.2650906,-55.18788673
+Kricketune,Bug,,-51.67610958,-22.31489195
+Shinx,Electric,,-177.5885229,-54.96844924
+Luxio,Electric,,-72.38037607,-29.21129998
+Luxray,Electric,,93.03572341,25.24038562
+Budew,Grass,Poison,-159.3972235,-55.71463092
+Roserade,Grass,Poison,92.99586135,-7.435356862
+Cranidos,Rock,,-87.3915075,-26.81879879
+Rampardos,Rock,,63.02450494,21.03614813
+Shieldon,Rock,Steel,-77.62200664,-72.25546159
+Bastiodon,Rock,Steel,34.27770901,118.3672468
+Burmy,Bug,,-223.1371595,-50.93617098
+Wormadam Plant Cloak,Bug,Grass,-18.1065069,23.89953231
+Wormadam Sandy Cloak,Bug,Ground,-23.24563823,42.4781218
+Wormadam Trash Cloak,Bug,Steel,-20.66939147,33.15977943
+Mothim,Bug,Flying,-4.024504539,-26.36209279
+Combee,Bug,Flying,-197.3607008,-67.02872486
+Vespiquen,Bug,Flying,31.3656717,47.899333
+Pachirisu,Electric,,-32.27800549,-14.54861085
+Buizel,Water,,-100.7064624,-66.61071232
+Floatzel,Water,,73.36082334,-25.67023343
+Cherubi,Grass,,-166.3925211,-46.26069856
+Cherrim,Grass,,19.20840816,-12.15291048
+Shellos,Water,,-116.7454861,-25.44047008
+Gastrodon,Water,Ground,39.11582096,20.64199746
+Ambipom,Normal,,54.09858035,-11.31878016
+Drifloon,Ghost,Flying,-85.77146889,-51.3425022
+Drifblim,Ghost,Flying,71.65201208,-13.47031136
+Buneary,Normal,,-84.58287804,-44.62432783
+Lopunny,Normal,,45.60820729,10.10347997
+Mega Lopunny,Normal,Fighting,152.2031676,34.10648326
+Mismagius,Ghost,,71.99665508,-19.13163377
+Honchkrow,Dark,Flying,81.1190456,-4.715025594
+Glameow,Normal,,-125.3169717,-60.38045816
+Purugly,Normal,,23.6703467,-23.73077471
+Chingling,Psychic,,-155.254953,-47.70595794
+Stunky,Poison,Dark,-108.3534132,-43.81132077
+Skuntank,Poison,Dark,47.4416875,1.131487962
+Bronzor,Steel,Psychic,-139.0513063,-70.99392329
+Bronzong,Steel,Psychic,54.58231551,71.43440539
+Bonsly,Rock,,-141.6367358,-95.90096518
+Mime Jr.,Psychic,Fairy,-126.4893118,-49.11845774
+Happiny,Normal,,-226.5105931,-66.52609394
+Chatot,Normal,Flying,-14.11022256,-49.99805121
+Spiritomb,Ghost,Dark,43.42786892,54.66565448
+Gible,Dragon,Ground,-141.8821966,-34.24129862
+Gabite,Dragon,Ground,-25.35410557,-13.06312194
+Garchomp,Dragon,Ground,170.6952021,48.39736648
+Mega Garchomp,Dragon,Ground,274.9560333,85.97704279
+Munchlax,Normal,,-56.17456908,17.14200878
+Riolu,Fighting,,-154.5524685,-50.43831939
+Lucario,Fighting,Steel,102.8012888,0.173094737
+Mega Lucario,Fighting,Steel,210.1954846,21.81605858
+Hippopotas,Ground,,-118.019551,1.800918573
+Hippowdon,Ground,,80.85987546,71.82648399
+Skorupi,Poison,Bug,-116.9298904,-6.208115326
+Drapion,Poison,Dark,62.20982988,33.71532845
+Croagunk,Poison,Fighting,-137.0839739,-50.70436564
+Toxicroak,Poison,Fighting,62.18557417,-1.735777767
+Carnivine,Grass,,19.32164869,12.76226914
+Finneon,Water,,-109.1418691,-34.43281049
+Lumineon,Water,,26.69797512,-0.393047358
+Mantyke,Water,Flying,-95.51523923,-22.21924104
+Snover,Grass,Ice,-105.4809201,-26.45961523
+Abomasnow,Grass,Ice,60.99717227,19.67433793
+Mega Abomasnow,Grass,Ice,160.4301488,76.82845168
+Weavile,Dark,Ice,82.34882649,0.829585999
+Magnezone,Electric,Steel,101.7482456,42.46648927
+Lickilicky,Normal,,75.11079717,49.87375164
+Rhyperior,Ground,Rock,87.3013352,90.67224138
+Tangrowth,Grass,,96.94277295,58.04357031
+Electivire,Electric,,116.1800089,10.47834748
+Magmortar,Fire,,118.0398561,6.0257467
+Togekiss,Fairy,Flying,114.9635452,28.45230685
+Yanmega,Bug,Flying,89.61660442,-0.155344327
+Leafeon,Grass,,85.45436623,53.55819307
+Glaceon,Ice,,92.74232087,33.60682108
+Gliscor,Ground,Flying,67.80378165,52.08273132
+Mamoswine,Ice,Ground,97.72113394,29.81934656
+Porygon-Z,Normal,,114.9764759,-4.800317046
+Gallade,Psychic,Fighting,86.62219355,25.56967583
+Mega Gallade,Psychic,Fighting,189.0638638,60.82945909
+Probopass,Rock,Steel,74.13243985,97.73595217
+Dusknoir,Ghost,,77.14306455,92.38850774
+Froslass,Ice,Ghost,53.13149531,-14.72771722
+Rotom,Electric,Ghost,10.08278909,-18.07978567
+Heat Rotom,Electric,Fire,87.50503591,29.44706681
+Wash Rotom,Electric,Water,87.50503591,29.44706681
+Frost Rotom,Electric,Ice,87.50503591,29.44706681
+Fan Rotom,Electric,Flying,87.50503591,29.44706681
+Mow Rotom,Electric,Grass,87.50503591,29.44706681
+Uxie,Psychic,,140.6892305,72.51995029
+Mesprit,Psychic,,148.6741648,52.55845031
+Azelf,Psychic,,165.0180005,-0.444767938
+Dialga,Steel,Dragon,256.6360384,70.75537458
+Palkia,Water,Dragon,261.2885079,55.10310448
+Heatran,Fire,Steel,171.5704738,51.34889639
+Regigigas,Normal,,239.3869459,85.7838513
+Giratina Altered Forme,Ghost,Dragon,246.529781,91.81179741
+Giratina Origin Forme,Ghost,Dragon,254.2032505,69.90813684
+Cresselia,Psychic,,160.0262756,78.46878869
+Phione,Water,,46.84357707,10.19822376
+Manaphy,Water,,171.5674702,45.56336615
+Darkrai,Dark,,183.460425,9.575449247
+Shaymin Land Forme,Grass,,171.568704,45.56290551
+Shaymin Sky Forme,Grass,Flying,184.1551837,3.430102537
+Arceus,Normal,,296.1525633,80.25524378
+Victini,Psychic,Fire,171.568704,45.56290551
+Snivy,Grass,,-132.4275215,-39.40431658
+Servine,Grass,,-23.44317937,-9.199559376
+Serperior,Grass,,96.93951563,19.73541116
+Tepig,Fire,,-132.9144867,-35.72777218
+Pignite,Fire,Fighting,-16.69738538,-8.789848635
+Emboar,Fire,Fighting,100.2675513,17.76691589
+Oshawott,Water,,-130.367276,-42.8890596
+Dewott,Water,,-20.33728574,-15.22378097
+Samurott,Water,,98.40814302,23.57125253
+Patrat,Normal,,-188.0250931,-50.53281249
+Watchog,Normal,,-15.2284749,-6.963469056
+Lillipup,Normal,,-168.145867,-43.56005485
+Herdier,Normal,,-71.88479578,-6.170741384
+Stoutland,Normal,,60.99975345,38.65254541
+Purrloin,Dark,,-155.9895216,-63.96790702
+Liepard,Dark,,23.24322709,-41.5186805
+Pansage,Grass,,-121.5808502,-45.48271951
+Simisage,Grass,,74.80947386,-14.9049208
+Pansear,Fire,,-121.5808502,-45.48271951
+Simisear,Fire,,74.80947386,-14.9049208
+Panpour,Water,,-121.5808502,-45.48271951
+Simipour,Water,,74.80947386,-14.9049208
+Munna,Psychic,,-150.6510005,-37.22672995
+Musharna,Psychic,,48.22807668,35.2881587
+Pidove,Normal,Flying,-180.0932724,-43.25526501
+Tranquill,Normal,Flying,-80.39457848,-23.17910686
+Unfezant,Normal,Flying,56.25384717,9.353960649
+Blitzle,Electric,,-139.1745283,-68.88721973
+Zebstrika,Electric,,73.23021786,-16.97679388
+Roggenrola,Rock,,-173.9927769,4.142409476
+Boldore,Rock,,-59.86430218,40.18100837
+Gigalith,Rock,,104.892793,-28.21717071
+Woobat,Psychic,Flying,-122.8103552,-55.95921017
+Swoobat,Psychic,Flying,-0.675009018,-45.93960096
+Drilbur,Ground,,-110.0172442,-39.21008442
+Excadrill,Ground,Steel,76.64836653,14.40765577
+Audino,Normal,,1.750020013,27.78194742
+Mega Audino,Normal,Fairy,99.32939836,81.50042469
+Timburr,Fighting,,-141.3020888,-17.16680335
+Gurdurr,Fighting,,-40.62708728,25.69395171
+Conkeldurr,Fighting,,63.02191612,57.83671373
+Tympole,Water,,-143.528485,-56.66146858
+Palpitoad,Water,Ground,-50.97395089,-26.3400234
+Seismitoad,Water,Ground,77.2024904,18.06353956
+Throh,Fighting,,17.97155885,49.67804487
+Sawk,Fighting,,27.16707037,20.05940084
+Sewaddle,Bug,Grass,-136.0706827,-14.18507067
+Swadloon,Bug,Grass,-66.48373698,18.13091084
+Leavanny,Bug,Grass,68.27370752,14.59686784
+Venipede,Bug,Poison,-184.6512228,-43.9553758
+Whirlipede,Bug,Poison,-89.04662679,18.28145689
+Scolipede,Bug,Poison,52.54134765,7.945641297
+Cottonee,Grass,Fairy,-163.161667,-44.59914456
+Whimsicott,Grass,Fairy,50.78892806,-7.632635316
+Petilil,Grass,,-161.4237226,-42.35318342
+Lilligant,Grass,,53.30782852,-11.80877165
+Basculin,Water,,32.54966104,-18.65650521
+Sandile,Ground,Dark,-146.0503393,-54.81568933
+Krokorok,Ground,Dark,-84.39106961,-38.35754011
+Krookodile,Ground,Dark,87.13347972,22.03254767
+Darumaka,Fire,,-128.6754196,-23.7602056
+Darmanitan Standard Mode,Fire,,47.30908916,4.791836045
+Darmanitan Zen Mode,Fire,Psychic,106.8794958,37.21158887
+Maractus,Grass,,31.25185964,-3.638223065
+Dwebble,Bug,Rock,-121.1795107,-8.856466358
+Crustle,Bug,Rock,28.24343074,62.63865861
+Scraggy,Dark,Fighting,-96.71719182,-2.298505411
+Scrafty,Dark,Fighting,40.94014093,65.62845693
+Sigilyph,Psychic,Flying,62.42471933,-6.211038469
+Yamask,Ghost,,-145.790532,-5.969319127
+Cofagrigus,Ghost,,33.79678909,76.65302372
+Tirtouga,Water,Rock,-95.13045055,25.48861524
+Carracosta,Water,Rock,48.8572854,73.6902896
+Archen,Rock,Flying,-28.29772109,-30.7182208
+Archeops,Rock,Flying,150.347185,0.547853085
+Trubbish,Poison,,-112.5198555,-26.86446317
+Garbodor,Poison,,37.13008962,20.99986503
+Zorua,Dark,,-101.1431052,-57.97554258
+Zoroark,Dark,,92.27465772,-23.72705308
+Minccino,Normal,,-137.421589,-57.48921973
+Cinccino,Normal,,43.55895968,-21.99257402
+Gothita,Psychic,,-151.8267835,-40.62969346
+Gothorita,Psychic,,-48.46685401,-8.338918952
+Gothitelle,Psychic,,53.57324588,28.18842973
+Solosis,Psychic,,-146.1354206,-53.21921281
+Duosion,Psychic,,-61.63755988,-34.67674231
+Reuniclus,Psychic,,56.40785675,21.79390172
+Ducklett,Water,Flying,-136.2557187,-39.09714418
+Swanna,Water,Flying,46.75292425,-17.68030048
+Vanillite,Ice,,-134.0875619,-39.2299365
+Vanillish,Ice,,-40.26315883,-14.37681903
+Vanilluxe,Ice,,106.9351591,23.0316262
+Deerling,Normal,Grass,-102.9061994,-39.25901989
+Sawsbuck,Normal,Grass,43.27512937,1.081807682
+Emolga,Electric,Flying,0.32323072,-32.83373046
+Karrablast,Bug,,-123.7855854,-39.73876208
+Escavalier,Bug,Steel,48.2006669,78.70786063
+Foongus,Grass,Poison,-150.4720012,-25.55938707
+Amoonguss,Grass,Poison,25.32345042,26.13575843
+Frillish,Water,Ghost,-105.1555504,-25.05614093
+Jellicent,Water,Ghost,44.74901571,15.97812195
+Alomomola,Water,,27.31577981,26.19028772
+Joltik,Bug,Electric,-118.3276601,-45.48385175
+Galvantula,Bug,Electric,49.02993568,-30.71755298
+Ferroseed,Grass,Steel,-152.1499024,25.76490638
+Ferrothorn,Grass,Steel,76.83819324,-53.6105934
+Klink,Steel,,-147.1667298,-11.81715773
+Klang,Steel,,-1.668793298,28.74754765
+Klinklang,Steel,,82.88926366,43.98204323
+Tynamo,Electric,,-163.8021169,-57.87027019
+Eelektrik,Electric,,-33.66277431,4.650954488
+Eelektross,Electric,,83.11796454,30.68842323
+Elgyem,Psychic,,-103.1940982,-27.08873805
+Beheeyem,Psychic,,53.55597694,16.25010214
+Litwick,Ghost,Fire,-169.7327348,-32.72214328
+Lampent,Ghost,Fire,-64.12673338,-31.41258058
+Chandelure,Ghost,Fire,95.48669598,5.015553019
+Axew,Dragon,,-122.1863132,-23.56189136
+Fraxure,Dragon,,-28.62943883,2.911257718
+Haxorus,Dragon,,108.2343353,35.26541686
+Cubchoo,Ice,,-133.1994146,-42.80186066
+Beartic,Ice,,46.8880669,34.21410288
+Cryogonal,Ice,,63.82459218,-34.18251464
+Shelmet,Bug,,-146.6195452,3.754021254
+Accelgor,Bug,,81.34633096,-61.00024231
+Stunfisk,Ground,Electric,28.97816636,38.98937378
+Mienfoo,Fighting,,-85.58155646,-33.43264485
+Mienshao,Fighting,,88.91909613,-12.82898952
+Druddigon,Dragon,,43.99299826,47.19556831
+Golett,Ground,Ghost,-141.1659553,-23.65998706
+Golurk,Ground,Ghost,43.86251012,37.10450385
+Pawniard,Dark,Steel,-101.4474455,-17.01228028
+Bisharp,Dark,Steel,51.45558943,39.7883288
+Bouffalant,Normal,,45.43045677,55.72753556
+Rufflet,Normal,Flying,-89.46154403,-23.85278315
+Braviary,Normal,Flying,75.81804838,26.78142275
+Vullaby,Dark,Flying,-72.86154457,-4.992214688
+Mandibuzz,Dark,Flying,68.21546958,45.79718603
+Heatmor,Fire,,55.60177766,0.908425144
+Durant,Bug,Steel,47.19954837,23.81178401
+Deino,Dark,Dragon,-142.5676455,-30.43493003
+Zweilous,Dark,Dragon,-17.52404849,2.745137237
+Hydreigon,Dark,Dragon,177.5790527,29.91827998
+Larvesta,Bug,Fire,-77.81641135,-21.9514947
+Volcarona,Bug,Fire,131.4546322,-6.050798669
+Cobalion,Steel,Fighting,146.5482926,51.91717023
+Terrakion,Rock,Fighting,151.0406402,39.13673463
+Virizion,Grass,Fighting,154.7962363,24.61693592
+Tornadus Incarnate Forme,Flying,,163.7071837,2.78926481
+Tornadus Therian Forme,Flying,,160.2945979,9.683719503
+Thundurus Incarnate Forme,Electric,Flying,163.7071837,2.789264809
+Thundurus Therian Forme,Electric,Flying,165.0995328,0.371707286
+Reshiram,Dragon,Fire,259.5525181,60.93209627
+Zekrom,Dragon,Electric,252.8340779,83.76391712
+Landorus Incarnate Forme,Ground,Flying,177.3793364,31.64039136
+Landorus Therian Forme,Ground,Flying,174.8666173,42.16931979
+Kyurem,Dragon,Ice,239.0077734,49.81802638
+Black Kyurem,Dragon,Ice,277.6825694,74.30147544
+White Kyurem,Dragon,Ice,285.5307239,47.73807598
+Keldeo Ordinary Forme,Water,Fighting,158.4278242,14.83791846
+Keldeo Resolute Forme,Water,Fighting,158.4278242,14.83791843
+Meloetta Aria Forme,Normal,Psychic,177.0648966,29.03669286
+Meloetta Pirouette Forme,Normal,Fighting,175.3591391,30.35507232
+Genesect,Bug,Steel,176.8517137,35.7029719
+Chespin,Grass,,-131.1817251,-18.98916814
+Quilladin,Grass,,-37.9539345,15.63486228
+Chesnaught,Grass,Fighting,88.77973198,63.88894659
+Fennekin,Fire,,-129.1531648,-53.00339641
+Braixen,Fire,,-21.66762882,-27.32209356
+Delphox,Fire,Psychic,111.5498808,-1.221308805
+Froakie,Water,,-119.7651389,-59.12329138
+Frogadier,Water,,-21.91502105,-45.51440809
+Greninja,Water,Dark,111.0598683,-14.30900659
+Bunnelby,Normal,,-205.161113,-65.38798316
+Diggersby,Normal,Ground,-16.42096136,1.788869541
+Fletchling,Normal,Flying,-161.9559704,-54.85405128
+Fletchinder,Fire,Flying,-51.72285723,-32.17368338
+Talonflame,Fire,Flying,73.67283631,-14.91224013
+Scatterbug,Bug,,-246.65416,-62.354384
+Spewpa,Bug,,-237.9556662,-42.40228679
+Vivillon,Bug,Flying,-16.25312137,-44.288844
+Litleo,Fire,Normal,-65.39268559,-34.66153587
+Pyroar,Fire,Normal,83.73264369,-14.37695118
+Flabébé,Fairy,,-136.3184397,-41.93572207
+Floette,Fairy,,-64.97123915,-24.60054447
+Florges,Fairy,,124.2938126,25.95768686
+Skiddo,Grass,,-87.22628077,-29.88192046
+Gogoat,Grass,,102.4033289,17.3667648
+Pancham,Fighting,,-94.19006976,-11.14442623
+Pangoro,Fighting,Dark,59.02219,31.3580455
+Furfrou,Normal,,42.57228778,-10.38131643
+Espurr,Psychic,,-81.29515056,-34.60192399
+Meowstic Male,Psychic,,36.10927831,-13.13666121
+Meowstic Female,Psychic,,36.10927831,-13.13666121
+Honedge,Steel,Ghost,-126.7946838,17.37579797
+Doublade,Steel,Ghost,-6.474121326,81.11660324
+Aegislash Blade Forme,Steel,Ghost,104.1704464,-10.48340464
+Aegislash Shield Forme,Steel,Ghost,108.0993268,-31.6755956
+Spritzee,Fairy,,-102.8081435,-8.576436018
+Aromatisse,Fairy,,24.60108448,22.53256473
+Swirlix,Fairy,,-100.4285517,-19.57702005
+Slurpuff,Fairy,,45.59764379,15.92458086
+Inkay,Dark,Psychic,-155.9502632,-33.94810445
+Malamar,Dark,Psychic,45.19556424,24.23727403
+Binacle,Rock,Water,-138.545755,-22.54759442
+Barbaracle,Rock,Water,56.93083039,56.86449084
+Skrelp,Poison,Water,-122.794477,-18.04966244
+Dragalge,Poison,Dragon,56.26990169,40.31641791
+Clauncher,Water,,-111.5811313,-21.08678727
+Clawitzer,Water,,68.85621167,19.16681734
+Helioptile,Electric,Normal,-145.6619899,-70.60338785
+Heliolisk,Electric,Normal,60.16848601,-34.71682308
+Tyrunt,Rock,Dragon,-81.1755465,-0.313076232
+Tyrantrum,Rock,Dragon,81.25839347,55.62263333
+Amaura,Rock,Ice,-75.88332248,-22.98050056
+Aurorus,Rock,Ice,88.42320237,25.31242068
+Sylveon,Fairy,,94.95203554,21.50003728
+Hawlucha,Fighting,Flying,73.3850712,-7.646683857
+Dedenne,Electric,Fairy,3.559041737,-34.89637489
+Carbink,Rock,Fairy,45.50710891,96.87307682
+Goomy,Dragon,,-139.4876466,-41.81690661
+Sliggoo,Dragon,,19.57460406,-0.734718
+Goodra,Dragon,,174.220805,41.33416844
+Klefki,Steel,Fairy,34.54579854,17.60427323
+Phantump,Ghost,Grass,-132.1187447,-29.25280955
+Trevenant,Ghost,Grass,36.55944858,27.02961849
+Pumpkaboo Average Size,Ghost,Grass,-108.2064292,-13.74797143
+Pumpkaboo Small Size,Ghost,Grass,-107.4225227,-16.64767075
+Pumpkaboo Large Size,Ghost,Grass,-108.9943264,-10.83889369
+Pumpkaboo Super Size,Ghost,Grass,-109.7860692,-7.921854747
+Gourgeist Average Size,Ghost,Grass,52.45944643,46.35949832
+Gourgeist Small Size,Ghost,Grass,54.61210383,37.4432303
+Gourgeist Large Size,Ghost,Grass,50.30635883,55.31767743
+Gourgeist Super Size,Ghost,Grass,48.15446398,64.30855421
+Bergmite,Ice,,-146.9325276,2.192923316
+Avalugg,Ice,,53.77481631,127.4450903
+Noibat,Flying,Dragon,-195.261323,-68.42647443
+Noivern,Flying,Dragon,111.7068713,-2.973906627
+Xerneas,Fairy,,259.0870005,57.53636813
+Yveltal,Dark,Flying,259.0878054,57.53269293
+Zygarde50% Forme,Dragon,Ground,164.2833773,67.86799211
+Diancie,Rock,Fairy,155.9348848,111.8919714
+Mega Diancie,Rock,Fairy,285.3954301,58.52896218
+Hoopa Confined,Psychic,Ghost,181.9129122,23.41462923
+Hoopa Unbound,Psychic,Dark,269.5623245,37.21503246
+Volcanion,Fire,Water,169.448369,62.78929778

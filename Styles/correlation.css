@@ -1,0 +1,44 @@
+#content {
+	height: 800px;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.label {
+	fill: black;
+}
+
+.grid .tick {
+    stroke: lightgrey;
+    opacity: 0.3;
+}
+.grid path {
+      stroke-width: 0;
+}
+
+.corr {
+	stroke: #aaa;
+	stroke-width: 1;
+}
+
+#grad {
+	height: 50px;
+	width: 500px;
+	margin: 0 auto;
+	border: 1px solid #aaa;
+	background: red; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, blue, white , red); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, blue, white, red); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, blue, white, red); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, blue , white, red); /* Standard syntax */
+}
+
+.legend {
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+}

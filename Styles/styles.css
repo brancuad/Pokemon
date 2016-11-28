@@ -1,0 +1,150 @@
+/*********************************
+			General
+**********************************/
+
+body {
+	text-align: center;
+	background-color: #eee;
+}
+
+#content {
+	width: 1000px;
+	height: 750px;
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	margin: 0 auto;
+	text-align: left;
+	padding: 5px;
+}
+
+svg {
+	position: relative;
+}
+
+/*********************************
+			Types
+**********************************/
+
+.Bug {
+	fill: #A8B820;
+	stroke: #6d7815;
+}
+
+.Grass {
+	fill: #78c850;
+	stroke: #4e8234;
+}
+
+.Dark {
+	fill: #705848;
+	stroke: #49392F;
+}
+
+.Dragon {
+	fill: #7038F8;
+	stroke: #4924A1;
+}
+
+.Electric {
+	fill: #F8D030;
+	stroke: #A1871F;
+}
+
+.Fairy {
+	fill: #EE99AC;
+	stroke: #9B6470;
+}
+
+.Fighting {
+	fill: #C03028;
+	stroke: #7D1F1A;
+}
+
+.Fire {
+	fill: #F08030;
+	stroke: #9C531F;
+}
+
+.Flying {
+	fill: #A890F0;
+	stroke: #6D5E9C;
+}
+
+.Ghost {
+	fill: #705898;
+	stroke: #493963;
+}
+
+.Ground {
+	fill: #E0C068;
+	stroke: #927D44;
+}
+
+.Ice {
+	fill: #98D8D8;
+	stroke: #638D8D;
+}
+
+.Normal {
+	fill: #A8A878;
+	stroke: #6D6D4E;
+}
+
+.Poison {
+	fill: #A040A0;
+	stroke: #682A68;
+}
+
+.Psychic {
+	fill: #F85888;
+	stroke: #A13959;
+}
+
+.Rock {
+	fill: #B8A038;
+	stroke: #786824;
+}
+
+.Steel {
+	fill: #B8B8D0;
+	stroke: #787887;
+}
+
+.Water {
+	fill: #6890F0;
+	stroke: #445E9C;
+}
+
+/*********************************
+			Generations
+**********************************/
+
+.gen1 {
+	fill: #FF1111;
+	stroke: #11bb11;
+}
+
+.gen2 {
+	fill: #DAA520;
+	stroke: #c0c0c0;
+}
+
+.gen3 {
+	fill: #A00000;
+	stroke: #0000a0;
+}
+
+.gen4 {
+	fill: #AAAAFF;
+	stroke: #ffaaaa;
+}
+
+.gen5 {
+	fill: #424B50;
+	stroke: #e3ced0;
+}
+
+.gen6 {
+	fill: #025DA6;
+	stroke: #ea1a3e;
+}

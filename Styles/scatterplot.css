@@ -1,0 +1,27 @@
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.dot {
+
+}
+
+.label {
+	fill: black;
+}
+
+.tooltip {
+	position: absolute;
+	padding: 2px;
+	background-color: #eee;
+	border: 1px solid #aaa;
+	display: inline-block;
+	pointer-events: none;
+}
+
+.axis text {
+	text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+	fill: black;
+}

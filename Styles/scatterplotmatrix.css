@@ -1,0 +1,25 @@
+.axis, .frame {
+	shape-rendering: crispEdges;
+}
+
+.axis line {
+	stroke: #ddd;
+}
+
+.axis path {
+	display: none;
+}
+
+.cell text {
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.frame {
+	fill: none;
+	stroke: #aaa;
+}
+
+circle {
+	fill-opacity: .7;
+}
