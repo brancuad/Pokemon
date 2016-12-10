@@ -196,6 +196,8 @@ var scatterplot = {
 			.attr("cx", xMap)
 			.attr("cy", yMap)
 			.on("mouseover", function(d) {
+				if($(this).hasClass("hidden"))
+					return;
 				tooltip.transition()
 					.duration(200)
 					.style("opacity", .9);
@@ -221,7 +223,8 @@ var scatterplot = {
 
 	brushmove : function() {
 		var selection = d3.brushSelection(this);
-		if (selection)
+
+		if (selection || !scatterplot.selection)
 			scatterplot.selection = selection;
 
 
@@ -357,6 +360,8 @@ var biplot = {
 			.attr("cx", xMap)
 			.attr("cy", yMap)
 			.on("mouseover", function(d) {
+				if($(this).hasClass("hidden"))
+					return;
 				tooltip.transition()
 					.duration(200)
 					.style("opacity", .9);
@@ -630,6 +635,8 @@ var mds = {
 			.attr("cx", xMap)
 			.attr("cy", yMap)
 			.on("mouseover", function(d) {
+				if($(this).hasClass("hidden"))
+					return;
 				tooltip.transition()
 					.duration(200)
 					.style("opacity", .9);
